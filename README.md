@@ -16,7 +16,8 @@
 
 
 
-Steps to run the program in localhost-
+**Steps to run the program in localhost -**
+&nbsp;
 1. Download Xampp.
 2. Run Apache and MySql from Xampp control panel.
 3. Run MySql Admin from Xampp control panel to open phymyadmin in browser.
@@ -31,6 +32,9 @@ Steps to run the program in localhost-
 12. After the download is complete type "npm start".
 13. After the client and the server has started, go to your browser and type "http://localhost:3000" in the search bar and press Enter.
 
-Required Links:
+&nbsp;
+
+**Required Links :**
+&nbsp;
 1. Xampp : https://www.apachefriends.org/download.html
 2. NodeJs: https://nodejs.org/en/download/
